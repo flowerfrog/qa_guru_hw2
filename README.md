@@ -1,1 +1,1 @@
-# qa_guru_python_8_2
+# Homework 2 for course qa_guru_python_8
